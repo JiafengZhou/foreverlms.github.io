@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>寒鸥惊起一双双</title>
+    <description>珍惜时间</description>
+    <link>https://blog.bobliao.fun/</link>
+    <atom:link href="https://blog.bobliao.fun/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Nov 2019 16:14:32 +0800</pubDate>
+    <lastBuildDate>Sun, 17 Nov 2019 16:14:32 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>前车之鉴，后车之师</title>
+        <description>&lt;p&gt;向更优秀的人学习&lt;/p&gt;
+
+&lt;p&gt;最近两个月深感自身的渣渣，找工作这么多天，实在是身心俱疲，只能告一段落了，以下为个人总结，引以为戒。&lt;/p&gt;
+
+&lt;p&gt;目前参与面试的有：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;中兴提前批 嵌入式5G开发 offer&lt;/li&gt;
+  &lt;li&gt;中船709   数据融合与仿真 offer&lt;/li&gt;
+  &lt;li&gt;海康萤石研究院 slam算法工程师 一面挂&lt;/li&gt;
+  &lt;li&gt;BIGO视觉算法  二面挂&lt;/li&gt;
+  &lt;li&gt;搜狐畅游 游戏研发C++ 一面挂（面试官问你觉得《C++ Primer》这本书好在哪儿？作者知道是谁吗？然后就挂了）&lt;/li&gt;
+  &lt;li&gt;海康C++开发 offer&lt;/li&gt;
+  &lt;li&gt;地平线 应用软件开发工程师 四面入池无消息&lt;/li&gt;
+  &lt;li&gt;华为 无线部门 软件开发 无结果&lt;/li&gt;
+  &lt;li&gt;招行信用卡中心 后台开发 offer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;现在已经好久没做题和看基础知识了，不知道后面如果有幸还有面试机会还能不能过，看来希望春招或者寒假实习能找个大的平台了，加油。&lt;/p&gt;
+
+&lt;h2 id=&quot;早做准备&quot;&gt;早做准备&lt;/h2&gt;
+
+&lt;p&gt;机会给的是有准备的人。我的秋招是在八月中旬开始的，那之前还没事看看论文，看看视频，觉着暑假生活还是蛮爽的，结果接下来秋招就遭了难。虽然知道找程序类工作会有很激烈的面试，但自己平时也有偶尔刷刷leetcode，当时自觉找工作应该不会那么难。可能自己这时候也有点儿慌，问了一下认识的同学，发现他们三四月份就开始忙着暑期实习和秋招准备，当时给我震惊了，发现自己浪费了宝贵的实习和预习时间，同时错过了很多公司的提前批机会，悔之晚矣。但秋招已经开始，只能硬着头皮试试了。&lt;/p&gt;
+
+&lt;p&gt;非科班的一去笔试才发现巨多的东西基本靠猜，根据选项的目视可靠性去选，结果可想而知，根本没啥机会进面试。整个九月都在慢慢看各种速成笔经，实在是没办法的办法，也仅仅拿到了寥寥几家的面试机会。后来终于迎来了国庆，有了和喘息的机会，每天在实验室刷剑指offer，国庆结束，勉强把上面的题目抄了一遍，后面才开始有了一些面试。&lt;/p&gt;
+
+&lt;h2 id=&quot;找准方向&quot;&gt;找准方向&lt;/h2&gt;
+
+&lt;p&gt;人贵有自知之明。一开始想找的工作方向是slam。初期投递的也都是与之相关的，结果现实给我摆正了位置。第一个投递的是深圳大疆的感知算法岗。其实已经知道大疆竞争激烈，感知算法更是有着沈老师团队里的各路牛人，只想投一投试一试。先做完大疆的性格测评（听说大疆性格挂的人也很多，因此做的时候非常认真，毕竟是双向选择），后面收到了笔试邀请，那是相当激动地做题，答出了两道半。听着群里hr说笔试挂了也会有邮件通知，而我迟迟未收到大疆的感谢信，还暗自窃喜说不定有机会。过了一周多，某日去官网查询进度，发现变成了“简历复筛未通过”，握草。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/img/recruitment/biaoqingbao1.png&quot; alt=&quot;握草&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;继续投。bigo的视觉算法，做完笔试约视频一面。上来开个共享文档，先问了一下c++的各种东西（因为直接word写，所以不太熟练…），接着开始问算法题目，那时自己都没看过剑指offer，可想当时觉得有多难。算法题在面试官的“关怀下”，磕磕绊绊勉强写了出来。接下来是智力题，真给我整蒙了。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;1、有一球心位于远点，单位半径的球面，希望你能实现一个函数，该函数每次调用可以返回球面上随机一点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;当时感觉束手无策，因为个人感觉有两个难点：如何得到随机以及如何实现随机取点。如何得到随机数这个我是真不知道咋搞，请示了下面试官，他说这样吧，我给你一个函数&lt;code class=&quot;highlighter-rouge&quot;&gt;random&lt;/code&gt;，每次调用会返回0~1之间的随机数，具体怎么实现你不用管。接下来才算是有了思路：利用球面坐标系仅用一个角度$\theta$来得到随机点。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2、甲乙两人从一个只有红蓝两色小球轮流取小球啥的，问如何让甲的胜率最高啥的&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这题当时没想出来，连题目都忘记了。后面约了二面，问了些slam里面的基础知识（基础矩阵，ba，pnp啥的），然后开始问&lt;strong&gt;机器学习&lt;/strong&gt;。这个是最大的坑点，因为我没有这方面的任何基础，而“算法岗”，现在都是和ai相关的，自然答不上来。像隔壁的孙同学做ai的，属实好找高薪工作。效率极高，第二天就发了感谢信。&lt;/p&gt;
+
+&lt;p&gt;海康萤石研究院的slam工程师。电话面问了下项目，问cartographer和gmapping slam的区别，这个属实一知半解，又tm问机器学习，支支吾吾回答说没有这方面基础，遂挂。&lt;/p&gt;
+
+&lt;p&gt;中兴的算法工程师（坑，只要ai，但根本不说明）。过去面试，说你这个我们这边基本不收，推荐你去软件开发去面试。临时换到软开，问数据库，一问三不知，然后说希望你去南京做分布式数据库（没搞错？），最后又面了嵌入式，介绍了一下加班情况…。&lt;/p&gt;
+
+&lt;p&gt;华为的slam算法工程师，做完笔试没有任何结果。后面车联网忽悠说可以改志愿，改成车bu志愿，又发了一次笔试，结果做完还是没结果，唉。&lt;/p&gt;
+
+&lt;p&gt;这些搞完差不多都快十月了，了解了一下slam方向的岗位，发现基本上可以这么理解：各各坑位千人争，还基本上是交大浙大华科南大哈工大往上的牛人们争。想着转开发，于是国庆看了很多开发方面的知识，也算是走上不同道路。&lt;/p&gt;
+
+&lt;h2 id=&quot;拓宽渠道&quot;&gt;拓宽渠道&lt;/h2&gt;
+
+&lt;p&gt;鉴于个人原因，秋招总共投递的公司不超过30家，上了论坛一看，同学们投递的数目真是太大了。BATMD这些我都没投过，属实后悔，本来可以刷一波笔面经验。而且前期根本不知道有牛客这些东西，很多公司都没投，错过了黄金时间。&lt;/p&gt;
+
+&lt;h2 id=&quot;理解万岁&quot;&gt;理解万岁&lt;/h2&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/img/recruitment/good.png&quot; alt=&quot;握草&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这位同学说的好，即使没找到最好的工作，也需要理解自己。同时也要理解hr，毕竟他们的工作就是让你去工作，别觉着被耍了就生气。不是每个人都能拿到那么好的offer。心平气和，心平气和，心平气和。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Nov 2019 10:47:36 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/11/12/%E9%9D%9E%E7%A7%91%E7%8F%AD%E7%A7%8B%E6%8B%9B%E6%80%BB%E7%BB%93.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/11/12/%E9%9D%9E%E7%A7%91%E7%8F%AD%E7%A7%8B%E6%8B%9B%E6%80%BB%E7%BB%93.html</guid>
+        
+        <category>code</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>一朵野花的一生</title>
+        <description>&lt;h3 id=&quot;花开&quot;&gt;花开&lt;/h3&gt;
+
+&lt;p&gt;草原，达尔般部。&lt;/p&gt;
+
+&lt;p&gt;昨夜下了场雨，导致营地里的道路泥泞不堪，行人稍有不注意，就可能被疾行的马匹溅起的泥浆扑个一身。一个身材魁梧，腰垮弯刀，作戎装打扮的长发男子正在一顶帐篷外面踱步，他步态雄武，身手看起来自是不凡，但脸上却显得异常的焦急。哥舒勒图今天特意向
+首领告事假来迎接自己第三十二个生日，以及他第一个孩子的诞生。听着帐篷里妻子痛苦的喊声，哥舒勒图越发地紧张与烦躁，右手下意识摸起了刀柄，作为伟大的乌苏米施可汗的狼卫，这是他使自己保持冷静的独特办法。&lt;/p&gt;
+
+&lt;p&gt;时间不知过去了多久，一声婴儿的啼哭让哥舒勒图松开刀柄，急切地掀开门帘走了进去。空气混合着血水的味道，他看到妻子卓娅盖着毯子躺在毡布上，脸色苍白虚弱，床边站着白发苍苍的产婆。&lt;/p&gt;
+
+&lt;p&gt;“恭喜狼卫大人，伟大的昆仑神赐予了您一个女儿”，产婆怀里抱着一个襁褓恭敬地说道。哥舒勒图快步走到产婆面前，接过襁褓，坐在了妻子旁边。“卓娅，谢谢你，你给了我这个最珍贵的宝物”，他抚摸着妻子的脸庞，又扭过头去看自己的女儿说道。他的女儿头上还残留着丝丝初生的血丝，双眼紧闭，小手小脚不见动作，但哥舒勒图能感受到一个新的生命的到来，怀里的那颗心脏正在稳定、有力的跳动着。&lt;/p&gt;
+
+&lt;p&gt;他弯腰亲吻了一下妻子，又低头碰了一下女儿的额头。&lt;/p&gt;
+
+&lt;p&gt;“阿依努尔&lt;sup&gt;[1]&lt;/sup&gt;，从今以后，我就是你的父亲了。”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;center&gt;未完待续&lt;/center&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;附注&quot;&gt;附注&lt;/h3&gt;
+&lt;font size=&quot;2&quot;&gt;[1]. 阿依努尔，突厥语意为“星光，月光”。
+&lt;br /&gt;
+[2]. 最近看《长安十二时辰》，对于书中曹破延的个人命运很感兴趣，作为书的开始和高潮，他就是个悲情人物，至死都在思念草原上的女儿，有其可悲可叹之处。&lt;/font&gt;
+
+</description>
+        <pubDate>Fri, 16 Aug 2019 18:07:54 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E9%9A%8F%E7%AC%94/2019/08/16/%E4%B8%80%E6%9C%B5%E9%87%8E%E8%8A%B1%E7%9A%84%E4%B8%80%E7%94%9F.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E9%9A%8F%E7%AC%94/2019/08/16/%E4%B8%80%E6%9C%B5%E9%87%8E%E8%8A%B1%E7%9A%84%E4%B8%80%E7%94%9F.html</guid>
+        
+        
+        <category>随笔</category>
+        
+      </item>
+    
+      <item>
+        <title>从零手写VIO-滑动窗口算法及VIO系统可观性和一致性</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#高斯分布gaussian-distribution---信息矩阵information-matrix&quot; id=&quot;markdown-toc-高斯分布gaussian-distribution---信息矩阵information-matrix&quot;&gt;高斯分布(Gaussian Distribution) -&amp;gt; 信息矩阵(Information Matrix)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#边际概率及舒尔补&quot; id=&quot;markdown-toc-边际概率及舒尔补&quot;&gt;边际概率及舒尔补&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#舒尔补-schur-complement-1&quot; id=&quot;markdown-toc-舒尔补-schur-complement-1&quot;&gt;舒尔补 Schur Complement [1]&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#舒尔补应用于marginalization&quot; id=&quot;markdown-toc-舒尔补应用于marginalization&quot;&gt;舒尔补应用于Marginalization&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#滑动窗口算法&quot; id=&quot;markdown-toc-滑动窗口算法&quot;&gt;滑动窗口算法&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#不可观性&quot; id=&quot;markdown-toc-不可观性&quot;&gt;不可观性&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#参考文献&quot; id=&quot;markdown-toc-参考文献&quot;&gt;参考文献&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#附件&quot; id=&quot;markdown-toc-附件&quot;&gt;附件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;高斯分布gaussian-distribution---信息矩阵information-matrix&quot;&gt;高斯分布(Gaussian Distribution) -&amp;gt; 信息矩阵(Information Matrix)&lt;/h3&gt;
+
+&lt;p&gt;SLAM问题求解可以抽象成一个最大后验估计(Maximum a Posterior)问题：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	\xi_{MAP} &amp;= \arg \max \limits_{\xi} p(\xi | r) \\
+	&amp;\Rightarrow \arg \max \limits_{\xi} \prod_{i}p(r_i | \xi)p(\xi) \\
+	&amp;\Rightarrow \arg \min \limits_{\xi} -\prod_{i}p(r_i | \xi)p(\xi) \\
+	&amp;\Rightarrow \arg \min \limits_{\xi} \left[ -\sum \limits_i \log p(r_i | \xi) - \log p(\xi) \right]
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;这里假设观测量$r_i$服从多元独立高斯分布，那么
+&lt;script type=&quot;math/tex&quot;&gt;p(r_i | \xi ) = \mathcal{N}(\mu_i,\Sigma_i),\, p(\xi)=\mathcal{N}(\mu_\xi,\Sigma_\xi)&lt;/script&gt;，$\xi_{MAP}$可以简化为：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	\xi_{MAP} &amp;\Rightarrow \arg \min \limits_{\xi} \left[ -\sum \limits_i \log p(r_i | \xi) - \log p(\xi) \right] \\
+	&amp;\Rightarrow \arg \min \limits_{\xi} \left[ -\sum \limits_i \log \exp \left( -\frac{1}{2} (r_i-\mu_i)^T\Sigma_i(x-\mu) \right) 
+	  -\log \exp \left( -\frac{1}{2} (\xi-\mu_\xi)^T\Sigma_\xi(\xi-\mu_\xi) \right) \right] \\
+	&amp;\Rightarrow \arg \min \limits_{\xi} \left\{ \sum \limits_{i} {|| r_i-\mu_i||}_{\Sigma_i}^{2} + {|| \xi-\mu_\xi ||}^2_{\Sigma_\xi} \right\}
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;最终，一个求最大后验概率的问题，变成了一个求各个独立观测量与先验范数和的最小二乘问题。&lt;/p&gt;
+
+&lt;p&gt;在多元高斯分布中，协方差矩阵的逆称之为信息矩阵。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;协方差矩阵非对角元素为0表示对应变量之间没有相关性，大于0表示两变量正相关，小于0表示负相关，等于0不相关。&lt;/li&gt;
+  &lt;li&gt;信息矩阵中非对角线元素为负数，表示在相应变量关于其他变量成正相关；为0表示相应元素关于其他变量条件独立；大于0表示相应变量间关于其他变量成负相关。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;协方差矩阵元素为0并不意味信息矩阵对应元素为0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;边际概率及舒尔补&quot;&gt;边际概率及舒尔补&lt;/h3&gt;
+&lt;h4 id=&quot;舒尔补-schur-complement-1&quot;&gt;舒尔补 Schur Complement [1]&lt;/h4&gt;
+
+&lt;p&gt;假设一个 (p+q)×(p+q)的矩阵M被分为A, B, C, D四个部分，分别是p×p、p×q、q×p以及q×q的矩阵：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	M=
+	\begin{bmatrix}
+	A &amp; B \\
+	C &amp; D
+	\end{bmatrix}
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;且D是&lt;strong&gt;可逆&lt;/strong&gt;矩阵，则D在M中的&lt;strong&gt;舒尔补&lt;/strong&gt;是$A-BD^{-1}C$。同理，若A可逆，则A在M中的舒尔补是$D-CA^{-1}B$。&lt;/p&gt;
+
+&lt;p&gt;舒尔补实际上是对M进行一些初等变换之后得出的其中一部分矩阵块。假设存在一个下三角矩阵：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	L=
+	\begin{bmatrix}
+	I_p &amp; 0 \\
+	-CA^{-1} &amp; I_q
+	\end{bmatrix}
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;M左乘L作行变换：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	L \cdot M &amp;= 
+	\begin{bmatrix}
+	I_p &amp; 0 \\
+	-CA^{-1} &amp; I_q
+	\end{bmatrix}
+	\begin{bmatrix}
+	A &amp; B \\
+	C &amp; D
+	\end{bmatrix} \\
+	&amp;= 
+	\begin{bmatrix}
+	A &amp; B \\
+	0 &amp; D-CA^{-1}B
+	\end{bmatrix} \\
+
+	&amp;= 
+	\begin{bmatrix}
+	A &amp; 0 \\
+	0 &amp; D-CA^{-1}B
+	\end{bmatrix} 
+
+	\begin{bmatrix}
+	I_p &amp; A^{-1}B \\
+	0 &amp; I_q
+	\end{bmatrix} 
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;所以通过上面式子可以求出$M^{-1}$：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	M^{-1}
+	&amp;= 
+	\begin{bmatrix}
+	I_p &amp; A^{-1}B \\
+	0 &amp; I_q
+	\end{bmatrix}^{-1} 
+	\begin{bmatrix}
+	A &amp; 0 \\
+	0 &amp; D-CA^{-1}B
+	\end{bmatrix}^{-1}
+	L \\
+	&amp;= 
+	\begin{bmatrix}
+	I_p &amp; -A^{-1}B \\
+	0 &amp; I_q
+	\end{bmatrix}
+	\begin{bmatrix}
+	A^{-1} &amp; 0 \\
+	0 &amp; {(D-CA^{-1}B)}^{-1}
+	\end{bmatrix}
+	\begin{bmatrix}
+	I_p &amp; 0 \\
+	-CA^{-1} &amp; I_q
+	\end{bmatrix}
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;h4 id=&quot;舒尔补应用于marginalization&quot;&gt;舒尔补应用于Marginalization&lt;/h4&gt;
+
+&lt;p&gt;多元高斯分布的协方差矩阵有着如下形式：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\Sigma=
+\begin{bmatrix}
+	A &amp; C^T \\
+	C &amp; D
+\end{bmatrix}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;假设满足该协方差矩阵的变量$x=\begin{bmatrix} a &amp;amp; b \end{bmatrix}^T$，那么$a$，$b$的联合概率分布依然满足高斯分布：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+	\begin{split}
+		P(a,b)=P(a)P(b | a) \propto \exp \left( -\frac{1}{2} \begin{bmatrix} a \\ b \end{bmatrix}^T \begin{bmatrix} A &amp; C^T \\ C &amp; D \end{bmatrix}^{-1} \begin{bmatrix} a \\ b \end{bmatrix}\right)
+	\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;利用舒尔补，可以将$a$的边际概率marg出来（也就是marg掉$b$）。&lt;/p&gt;
+
+&lt;p&gt;对于&lt;strong&gt;协方差矩阵&lt;/strong&gt;，有：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;边际概率$p(a)$的协方差只需从联合分布的协方差矩阵中取出对应矩阵块即可:&lt;/p&gt;
+
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;p(a) \propto \exp \left( -\frac{1}{2} a^TA^{-1}a \right) \sim \mathcal{N}(0,A)&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;对于条件概率（以未被marg的变量作为条件） $p(b | a)$，其协方差矩阵变为该变量对应的舒尔补$\Delta A$，均值也可通过分解联合高斯分布得到:&lt;/p&gt;
+
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;p(b|a) \propto \exp \left( -\frac{1}{2} (b-CA^{-1}a)^T{\Delta A}^{-1}(b-CA^{-1}a)  \right) \sim \mathcal{N}(CA^{-1}a,\Delta A)&lt;/script&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;对于&lt;strong&gt;信息矩阵&lt;/strong&gt;，在信息矩阵：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\Lambda = 
+	\begin{bmatrix}
+		A &amp; C^T \\
+		C &amp; D
+	\end{bmatrix}^{-1}
+	=
+	\begin{bmatrix}
+		\Lambda_{aa} &amp; \Lambda_{ab} \\
+		\Lambda_{ba} &amp; \Lambda_{bb}
+	\end{bmatrix} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;有：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;边际概率$p(a)$的信息矩阵为：&lt;/p&gt;
+
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;A^{-1}=\Lambda_{aa}-\Lambda_{ab}{\Lambda_{bb}}^{-1}\Lambda_{ba}&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;条件概率的信息矩阵为：&lt;/p&gt;
+
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;{\Delta A}^{-1} = \Lambda_{bb}&lt;/script&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;滑动窗口算法&quot;&gt;滑动窗口算法&lt;/h3&gt;
+
+&lt;p&gt;在一个sliding window里，只维护若干个状态量，当新的观测量到来时，marg掉最老的状态量。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/marg.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在滑动窗口算法中marg掉老得变量会导致信息传递到原先条件独立的变量，造成信息矩阵稠密化。旧的变量被去除，那么需要将新的变量信息矩阵添加到原信息矩阵中去：&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/marg_2.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在向优化窗口中添加新的残差以及与被marg掉变量条件独立无关的残差后要计算新的信息矩阵：&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/new_info_matrix.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;不可观性&quot;&gt;不可观性&lt;/h3&gt;
+
+&lt;p&gt;不可观性体现在当SLAM过程中物体运动发生变化，状态量实际改变，但观测量不变进而导致损失函数不会变化，SLAM估计的状态量不变。这意味着求解最小二乘时对应的信息矩阵$\Lambda$存在着零空间（Null Space）。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;单目SLAM系统体现在7自由度不可观：6自由度位姿+尺度；&lt;/li&gt;
+  &lt;li&gt;单目+IMU4自由度不可观：yaw偏航角、世界坐标3自由度。
+解决这一零空间导致解的不确定性，采用FEJ(First Estimated Jacobian)。FEJ要求不同残差对同一个状态求雅克比时线性化点必须一致，避免了零空间退化而使得不可观状态量变为可观。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;参考文献&quot;&gt;参考文献&lt;/h3&gt;
+
+&lt;font size=&quot;2&quot;&gt;[1]. 中文维基-舒尔补&lt;a href=&quot;https://wikipedia.tk.gugeeseo.com/wiki/%E8%88%92%E5%B0%94%E8%A1%A5&quot; target=&quot;_blank&quot;&gt;$\nearrow$&lt;/a&gt;&lt;/font&gt;
+
+&lt;h3 id=&quot;附件&quot;&gt;附件&lt;/h3&gt;
+
+&lt;center&gt;&lt;object data=&quot;/files/vio/4week/hm.pdf&quot; width=&quot;700&quot; height=&quot;1500&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;&lt;/center&gt;
+</description>
+        <pubDate>Thu, 18 Jul 2019 10:19:45 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/07/18/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%AE%97%E6%B3%95.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/07/18/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%AE%97%E6%B3%95.html</guid>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>从零手写VIO-基于优化的IMU与视觉信息融合</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#基于bundle-adjustment的vio融合&quot; id=&quot;markdown-toc-基于bundle-adjustment的vio融合&quot;&gt;基于Bundle Adjustment的VIO融合&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#最小二乘问题的求解&quot; id=&quot;markdown-toc-最小二乘问题的求解&quot;&gt;最小二乘问题的求解&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#线性与非线性优化&quot; id=&quot;markdown-toc-线性与非线性优化&quot;&gt;线性与非线性优化&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#鲁棒核函数robust-kernel-function&quot; id=&quot;markdown-toc-鲁棒核函数robust-kernel-function&quot;&gt;鲁棒核函数(Robust Kernel Function)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vio残差函数构建&quot; id=&quot;markdown-toc-vio残差函数构建&quot;&gt;VIO残差函数构建&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#作业&quot; id=&quot;markdown-toc-作业&quot;&gt;作业&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#参考文献&quot; id=&quot;markdown-toc-参考文献&quot;&gt;参考文献&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#附录&quot; id=&quot;markdown-toc-附录&quot;&gt;附录&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#作业-1&quot; id=&quot;markdown-toc-作业-1&quot;&gt;作业&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#新的更新策略&quot; id=&quot;markdown-toc-新的更新策略&quot;&gt;新的更新策略&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- 自定义变量 --&gt;
+
+&lt;h3 id=&quot;基于bundle-adjustment的vio融合&quot;&gt;基于Bundle Adjustment的VIO融合&lt;/h3&gt;
+
+&lt;p&gt;光束平差法（Bundle Adjustment）是SLAM中图优化框架的模型，本质上属于最小二乘（Least Square）方法。在视觉SLAM上，BA优化的是重投影误差（Sum of Reprojection Error）。&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/ba_1.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上图中$f_j$、$f_i$是空间中的路标点，$c_1$、$c_2$、$c_3$是三个时刻的相机。在这张图上，$f_j$先后被$c_1$ 、$c_2$捕捉到，而$f_i$在$c_1$、$c_2$和$c_3$里出现。
+在特征点（路标点）三维坐标f，相机位姿q、p，特征点对应在不同图像上的坐标（观测量）$z^{c_i}_f$都已知的情况下，可以通过最小二乘来估计状态量的最优值：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\mathop{\arg\min}_{q,p,f}\sum_{i=1}^m\sum^n_{j=1} \left\|\pi(q_{wc_i},p_{wc_i},f_j)-z_{f_j}^{c_i} \right\|_{\Sigma_{ij}}&lt;/script&gt;
+
+&lt;p&gt;式中$\pi(\cdot)$是投影函数，是在不同帧之间转换3D点坐标的方式；范数常常选取欧式范数。&lt;/p&gt;
+
+&lt;h3 id=&quot;最小二乘问题的求解&quot;&gt;最小二乘问题的求解&lt;/h3&gt;
+
+&lt;h4 id=&quot;线性与非线性优化&quot;&gt;线性与非线性优化&lt;/h4&gt;
+&lt;p&gt;在构建出最小二乘问题后，如何求解成为关键。把重投影误差记作残差（residual）$f_i(x), i= 0,1,…,m$。$m$是观测次数。构建损失函数（loss function）：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F(x)=\frac{1}{2}\sum_{i=1}^m\left((f_i(x))\right)^2&lt;/script&gt;
+
+&lt;p&gt;现在我们要求得一个$n$维的变量$x^* \in \mathbb{R}^n$以使loss function取得一个局部最小值。在这个问题中，一般$m \ge n$，即观测数据维度是肯定比状态量维度高的。对损失函数进行二阶泰勒展开（&lt;em&gt;PPT这里假设$F(x)$是可导且平滑的，需要去查资料验证&lt;/em&gt;）：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F(x+\Delta x) = F(x)+\mathrm{\mathbf{J}}\Delta x+\frac{1}{2}\Delta x^T \mathrm{\mathbf{H}}\Delta x+O(\|\Delta x \|^3)&lt;/script&gt;
+
+&lt;p&gt;现在问题变为在$x$处，$F(x)$怎么才能取到局部最小值呢？假设函数在$x$处一阶导数（即雅克比矩阵$\mathrm{\mathbf{J}}$）为$\mathbf{0}$，那么忽略掉高阶小量，损失函数在以$\Delta x$的步长逼近时是变大还是变小主要取决于$\frac{1}{2}\Delta x^T \mathrm{\mathbf{H}}\Delta x$项的正负。$\Delta x^T \mathrm{\mathbf{H}}\Delta x$是一个二次型，其正负又取决于损失函数的二阶导数（即海森矩阵$\mathrm{\mathbf{H}}$）。若$\mathrm{\mathbf{H}}$正定，F(x)在$x$处是局部最小值；若$\mathrm{\mathbf{H}}$负定，F(x)在$x$处是局部最大值。&lt;/p&gt;
+
+&lt;p&gt;对于线性最小二乘问题，线性求解多样化，有正规方程、QR分解、Cholesky分解、奇异值分解SVD等。但是在SLAM过程中一般是非线性的，最常用的是迭代下降这种非线性优化方法。迭代法的思想是找到一个下降方向$\mathrm{\mathbf{d}}$和下降步长$\alpha$来使得下一次迭代的值$F(x_{k+1})$小于上一次迭代$F(x_k)$的值。这要求下降方向满足$\mathrm{\mathbf{J}}\mathrm{\mathbf{d}} &amp;lt; 0$。&lt;/p&gt;
+
+&lt;p&gt;怎么找到这个下降方向呢？最速下降法取:
+&lt;script type=&quot;math/tex&quot;&gt;\mathrm{\mathbf{d}}=-\frac{\mathrm{\mathbf{J}}^T}{\| \mathrm{\mathbf{J}} \|_2}&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;即步长方向与一阶导（梯度）的方向相反来保证是在往下走,步长$\alpha$再另取。牛顿法更进一步，对$F(x+\Delta x)$对$\Delta x$求导来使得导数为0，解出$\Delta x$：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{\partial F(X+\Delta x)}{\partial \Delta x} \approx \frac{\partial (F(X)+ \mathrm{\mathbf{J}}\Delta x+\frac{1}{2}\Delta x^T\mathrm{\mathbf{H}}\Delta x)}{\partial \Delta x} = \mathrm{\mathbf{J}}^T + \mathrm{\mathbf{H}}\Delta x=0&lt;/script&gt;
+
+&lt;p&gt;$\Delta x = -H^{-1}J^T$。牛顿法相对于最速下降收敛更快，但是二阶导海森矩阵计算复杂。&lt;/p&gt;
+
+&lt;p&gt;记m个观测的残差函数为：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;f(x)=
+	\begin{bmatrix}
+		f_1(x) \\ ... \\ f_m(x)
+	\end{bmatrix}&lt;/script&gt;
+
+&lt;p&gt;则有：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;f^T(x)f(x)=\sum_{i=1}^m (fi(x))^2&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{\partial f(x)}{\partial x} = \mathrm{\mathbf{J}} = 	
+	\begin{bmatrix}
+		\mathrm{\mathbf{J}}_1 (x) \\ ... \\ \mathrm{\mathbf{J}}_m (x)
+	\end{bmatrix}&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;这里$\mathrm{\mathbf{J}}$变成了残差的雅克比矩阵&lt;/em&gt;。代入损失函数得：&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/loss_func_1.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上式中$J^TJ$一般正定。由此可得知:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F^\prime(x)\approx (J^Tf)^T \\
+	F^{\prime\prime}(x)\approx J^TJ&lt;/script&gt;
+
+&lt;p&gt;这里用$J^TJ$近似得到了$\mathrm{\mathbf{H}}$，减少了复杂度,到此对于一阶导为0可以衍生出两种方法：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gauss-Newton&lt;/p&gt;
+
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;(J^TJ)\Delta x_{gn}=-J^Tf&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levenberg-Marquardt&lt;/p&gt;
+
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;(J^TJ+\mu I)\Delta x_{lm}=-J^Tf with \mu \ge 0&lt;/script&gt;
+
+    &lt;p&gt;$\mu$是LM中的阻尼因子，$\mu &amp;gt; 0$保证$JTJ+\mu I$正定，迭代朝着下降的方向进行；$\mu$非常大则$\Delta x_{lm}\approx -\frac{1}{\mu}J^Tf\approx -\frac{1}{\mu} F^{\prime}(x)^T$，接近最速下降法。若$\mu$较小，则$\Delta x \approx \Delta x_{gn}$，接近高斯牛顿。在LM迭代过程中，要根据$\Delta x$引起的损失函数变化来更新$\mu$：&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;$\Delta x \rightarrow F(x) \uparrow \Rightarrow \mu \uparrow \&amp;amp; \, \Delta x \downarrow$，增大阻尼减小步长，拒绝本次迭代&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;$ \Delta x \rightarrow F(x) \downarrow \Rightarrow \mu \downarrow \&amp;amp; \, \Delta x \uparrow$，减小阻尼增大步长，加快收敛。
+   更科学的，通过阻尼更新策略比例因子$\rho$来确定：&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+   	&lt;script type=&quot;math/tex&quot;&gt;\rho = \frac{F(x)-F(x+\Delta x_{lm})}{L(0)-L(\Delta x_{lm})}&lt;/script&gt;
+
+    &lt;p&gt;其分母始终大于0。此时：&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;$\rho &amp;lt; 0 ,F(x) \uparrow \Rightarrow \mu \uparrow \Delta x \downarrow$，增大阻尼减小步长&lt;/li&gt;
+      &lt;li&gt;$\rho&amp;gt;0$且较大，减小$\mu$，调节LM接近Gauss-Newton，加速收敛&lt;/li&gt;
+      &lt;li&gt;$\rho &amp;gt;0$但较小，增大阻尼$\mu$，减小迭代步长。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;鲁棒核函数robust-kernel-function&quot;&gt;鲁棒核函数(Robust Kernel Function)&lt;/h4&gt;
+
+&lt;p&gt;鲁棒核函数用于解决出现outlier的问题。鲁棒核函数$\rho$直接作用在残差$f_k(x)$，等于对最小二乘问题做了包装，使得观测数据中的outlier影响不到最终的估计结果：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\mathop{\arg \min}_x \frac{1}{2} \sum_k \rho(\| f_k(x) \|^2)&lt;/script&gt;
+
+&lt;p&gt;误差平方项记为&lt;script type=&quot;math/tex&quot;&gt;s_k = \| f_k(x) \|^2&lt;/script&gt;，进行二阶展开有：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{1}{2}\rho(s)=\frac{1}{2}(const + \rho^\prime\Delta s + \frac{1}{2}\rho^{\prime\prime} \Delta^2 s)&lt;/script&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/robust_kernel_1.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/vio/robust_kernel_2.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vio残差函数构建&quot;&gt;VIO残差函数构建&lt;/h3&gt;
+
+&lt;p&gt;VIO残差函数的构建主要包括视觉重投影误差和IMU预积分误差。由于IMU工作频率高于相机，需要把离散的IMU误差预积分与相机融合。之后要进行残差Jacobian的推导，可以看PPT或相关资料。&lt;/p&gt;
+
+&lt;h3 id=&quot;作业&quot;&gt;作业&lt;/h3&gt;
+
+&lt;p&gt;作业主要有三部分，一个是编程实践题，用来验证LM算法；一个VIO预积分误差雅克比元素推导；一个证明LM算法的解。在编程实践题第三问，我实现了论文[1]中提出的阻尼因子更新策略，在本例上相对于示例代码的更新策略迭代次数减少，精度和时间几乎一致,代码的实现和作业见附录。&lt;/p&gt;
+
+&lt;h3 id=&quot;参考文献&quot;&gt;参考文献&lt;/h3&gt;
+
+&lt;font size=&quot;2&quot;&gt;[1]. Kwak, Young-tae, Ji-won Hwang, and Cheol-jung Yoo. &quot;A new damping strategy of Levenberg-Marquardt algorithm for multilayer perceptrons.&quot; Neural Network World 21.4 (2011): 327. &lt;a href=&quot;https://pdfs.semanticscholar.org/e8cd/bb776a03470c5a5b95621b296c2b448800ed.pdf&quot; target=&quot;_blank&quot;&gt;$\nearrow$&lt;/a&gt;&lt;/font&gt;
+
+&lt;h3 id=&quot;附录&quot;&gt;附录&lt;/h3&gt;
+
+&lt;h4 id=&quot;作业-1&quot;&gt;作业&lt;/h4&gt;
+&lt;center&gt;&lt;object data=&quot;/files/vio/3week/hm.pdf&quot; width=&quot;700&quot; height=&quot;1500&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;&lt;/center&gt;
+
+&lt;h4 id=&quot;新的更新策略&quot;&gt;新的更新策略&lt;/h4&gt;
+&lt;!-- &lt;script src=&quot;https://gist.github.com/foreverlms/682f077bf9915c7584d63baf5c8bcb63.js&quot;&gt;&lt;/script&gt; --&gt;
+&lt;script src=&quot;https://gitee.com/bobliao/codes/mhu3gjv1ks0zlydwr976583/widget_preview?title=new_strategy.cpp&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 08 Jul 2019 10:50:33 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/07/08/vio%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/07/08/vio%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A.html</guid>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>从零手写VIO-IMU传感器</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#imu测量模型运动模型误差模型的构建&quot; id=&quot;markdown-toc-imu测量模型运动模型误差模型的构建&quot;&gt;IMU测量模型、运动模型、误差模型的构建&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#imu测量模型&quot; id=&quot;markdown-toc-imu测量模型&quot;&gt;IMU测量模型&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#imu运动模型&quot; id=&quot;markdown-toc-imu运动模型&quot;&gt;IMU运动模型&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#imu误差模型&quot; id=&quot;markdown-toc-imu误差模型&quot;&gt;IMU误差模型&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#imu运动模型的离散化数据处理&quot; id=&quot;markdown-toc-imu运动模型的离散化数据处理&quot;&gt;IMU运动模型的离散化数据处理&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#附录&quot; id=&quot;markdown-toc-附录&quot;&gt;附录&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;从零手写VIO课程的第二周主要在于两部分:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IMU测量模型、运动模型、误差模型的构建；&lt;/li&gt;
+  &lt;li&gt;IMU运动模型的离散化数据处理。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;imu测量模型运动模型误差模型的构建&quot;&gt;IMU测量模型、运动模型、误差模型的构建&lt;/h3&gt;
+
+&lt;h4 id=&quot;imu测量模型&quot;&gt;IMU测量模型&lt;/h4&gt;
+
+&lt;p&gt;加速度计的测量值$a_m$为弹簧拉力对应的加速度：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;a_m=\frac{f}{m}=a-g&lt;/script&gt;
+
+&lt;p&gt;，其中$m$为质量块质量，$a$为机器人本身在世界（惯性）坐标系下的实际加速度。
+陀螺仪的测量值即为IMU在body坐标系下的旋转角速度，要通过运动学模型转换到惯性坐标系下。&lt;/p&gt;
+
+&lt;h4 id=&quot;imu运动模型&quot;&gt;IMU运动模型&lt;/h4&gt;
+
+&lt;p&gt;通过构建类似极坐标的坐标表示方式，可以很方便地把IMU质量块在body系的受力、运动转换到inertial坐标系下。质量块在body坐标系下的坐标为：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;r_B(t)=
+\begin{bmatrix}
+x_1(t) \\
+x_2(t) \\
+x_3(t) \\
+\end{bmatrix}&lt;/script&gt;
+
+&lt;p&gt;将其旋转到惯性系下有:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;r_I(t)=R_{IB}r_B&lt;/script&gt;
+
+&lt;p&gt;对$r_I(t)$进行时间求导得到：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+\begin{split}
+	\dot{r_I} &amp;= R_{IB}\dot{r_B}+\dot{R_{IB}}r_B \\
+			  &amp;= R_{IB}\dot{r_B}+{R_{IB}\omega_b}^{\wedge}\cdot R_{IB} \cdot r_B \\
+			  &amp;= R_{IB}\dot{r_B}+{R_{IB}\omega_b}^{\wedge} r_I \\
+			  &amp;= R_{IB}\dot{r_B}+ \omega \times r_I \\
+			  &amp;= R_{IB}v_B+ \omega \times r_I \\
+	v_I &amp;= R_{IB}v_B+\omega \times r_I \Leftrightarrow R_{IB}v_B \equiv V_I - \omega \times r_I
+
+\end{split}
+\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;p&gt;其中$\omega=R_{IB}\omega_B$，表示body坐标系下的角速度转换到inertial坐标系下。&lt;/p&gt;
+
+&lt;p&gt;对$\dot{r_I}$再进行求导，得到：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;a = a_I -2\omega \times v - \dot{\omega} \times r_I - \omega \times (\omega \times r_I)&lt;/script&gt;
+
+&lt;p&gt;式中$a=R_{IB}a_B$，$v=R_{IB}v_B$，表示body系下的加速度和速度在inertial系下的转换结果。这个式子里$\omega \times v$为科氏力，$\dot{\omega} \times r_I$为欧拉力，$\omega \times (\omega \times r_I)$为离心力。详细证明可看第二周课件。&lt;/p&gt;
+
+&lt;h4 id=&quot;imu误差模型&quot;&gt;IMU误差模型&lt;/h4&gt;
+
+&lt;p&gt;IMU误差有随机误差和确定误差两种。确定性误差可包括偏差(bias)、缩放比(scale)、温度引起的误差、运行次数引起的误差等，这些可以通过标定去修正；随机误差假定为符合高斯分布，有高斯白噪声(white noise)、偏差随机游走(bias random walk)等，这些可以通过Allan方差标定法标定。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;六面法标定确定性误差&lt;/li&gt;
+  &lt;li&gt;Allan方差法&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最终可以给出IMU数据的数学模型（a,accelerator;g,gyro）：&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{equation}
+	\begin{split}
+		a_m^B &amp;= S_aR_{BG}(a^G-g^G)+n_a+b_a \\
+		\omega_m^B  &amp;= S_g\omega^B+s_{ga}a^B+n_g+b_g
+	\end{split}
+	\end{equation} %]]&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;imu运动模型的离散化数据处理&quot;&gt;IMU运动模型的离散化数据处理&lt;/h3&gt;
+
+&lt;p&gt;离散化数据处理主要是如何通过上个时刻的imu测量值积分得到下一时刻的机器人位姿。常用的有中值积分，欧拉积分等。&lt;/p&gt;
+
+&lt;p&gt;本周作业主要是IMU数据仿真，见附录。&lt;/p&gt;
+
+&lt;h3 id=&quot;附录&quot;&gt;附录&lt;/h3&gt;
+
+&lt;center&gt;&lt;object data=&quot;/files/vio/2week/hm.pdf&quot; width=&quot;700&quot; height=&quot;1500&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;&lt;/center&gt;
+</description>
+        <pubDate>Sat, 29 Jun 2019 09:13:31 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/06/29/vio%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%BD%9C%E4%B8%9A.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/06/29/vio%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%BD%9C%E4%B8%9A.html</guid>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>从零手写VIO课程第一周作业</title>
+        <description>&lt;p&gt;从零手写VIO的第一周作业
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;这是我在深蓝学院学习的《从零手写VIO》课程第一周的作业。第一周主要回顾了一些视觉SLAM和VIO里面会用到的基本概念和数理知识。着重于李代数的求导。&lt;/p&gt;
+&lt;center&gt;&lt;object data=&quot;/files/vio/1week/hm.pdf&quot; width=&quot;700&quot; height=&quot;1500&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;&lt;/center&gt;
+</description>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/06/25/vio%E7%AC%AC%E4%B8%80%E5%91%A8%E4%BD%9C%E4%B8%9A.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/06/25/vio%E7%AC%AC%E4%B8%80%E5%91%A8%E4%BD%9C%E4%B8%9A.html</guid>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>高斯滤波--卡尔曼滤波</title>
+        <description>&lt;p&gt;卡尔曼滤波对具有线性动态测量函数的有限阶问题利用矩参数来实现贝叶斯滤波,属于高斯滤波一种.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;高斯滤波的基本思想是置信度(belief)用多元正态分布表示.$x$的密度用两个参数均值$\mu$和方差$\Sigma$来表示.均值是n维向量,协方差是对称半正定二次型.高斯滤波的参数均值和方差称为矩参数(moments parameterization),这二者分别是概率分布的一阶矩和二阶矩,正态分布的其他矩都为零.&lt;/p&gt;
+
+&lt;p&gt;卡尔曼滤波(Kalman Filter, KF)实现了对&lt;strong&gt;连续状态&lt;/strong&gt;的置信度计算,不适用于离散或混合状态空间.&lt;/p&gt;
+
+&lt;h2 id=&quot;线性高斯系统&quot;&gt;线性高斯系统&lt;/h2&gt;
+
+&lt;p&gt;在除了贝叶斯滤波的马尔科夫假设之外,若连续变量满足以下三个特性,可以认为其后验是满足高斯(Gaussian)分布的:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;状态转移概率&lt;script type=&quot;math/tex&quot;&gt;p({\boldsymbol x}\_t \|{\boldsymbol u}_t,x_{t-1})&lt;/script&gt;必须是携带随机高斯噪声的参数的线性函数,即:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\boldsymbol x}_t=A_t{\boldsymbol x}_{t-1}+B_t{\boldsymbol u}_t+\varepsilon_t&lt;/script&gt;
+
+&lt;p&gt;式中$\varepsilon_t$是一个高斯随机变量,表示由状态转移引入的不确定性,其维数与状态向量$x$的维数相同.其均值为0,方差用$R_t$表示.上式表明状态变量与带有附加高斯噪声的状态转移成线性关系.后验表达式为:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x_t|u,x_{t-1})={\rm det}{(2\pi R_t)}^{-\frac{1}{2}}{\rm exp}\{-\frac{1}{2}(x_t-A_tx_{t-1}-B_tu_t)^TR_t^{-1}(x_t-A_tx_{t-1}-B_tu_t)\}&lt;/script&gt;
+
+&lt;p&gt;式中均值为$A_tx_{t-1}+B_tu_t$,方差由$R_t$给定.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;测量概率$p(z_t|x_t)$也与带有高斯噪声的自变量成线性关系:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;z_t=C_tx_t+\delta_t&lt;/script&gt;
+
+&lt;p&gt;$\delta_t$是均值为0,方差为$Q_t$的多变量高斯分布.$P(z_t|x_t)$由下式给出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(z_t|x_t)=det(2\pi Q_t)^{-\frac{1}{2}}exp\{-\frac{1}{2}(z_t-C_tx_t)^TQ_t^{-1}(z-C_tx_t\}&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;初始置信度${\rm bel}(x_0)$必须是正态分布的.$\mu_0$表示置信度的均值,$\Sigma_0$表示方差:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\rm bel}(x_0)=p(x_0)={\rm det}(x_0)={\rm det}(2\pi \Sigma_0)^{-\frac{1}{2}}{\rm exp}\{-\frac{1}{2}(x_0-\mu_0)^T\Sigma_0^{-1}(x_0-\mu_0)\}&lt;/script&gt;
+
+&lt;p&gt;上面的三个假设保证了后验${\rm bel}(x_t)$在任何时刻t总符合高斯分布.&lt;/p&gt;
+
+&lt;h2 id=&quot;卡尔曼滤波算法&quot;&gt;卡尔曼滤波算法&lt;/h2&gt;
+
+&lt;p&gt;KF的输入就是$t-1$时刻的置信度,输出的是$t$时刻的置信度.卡尔曼滤波算法主要由预测和更新(innovation)构成,具体步骤如下:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;接收输入$\mu_{t-1}$,$\Sigma_{t-1}$,$z_t$,分别为上一时刻的状态均值和方差以及当前的观测值.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$\bar \mu_t=A_t\mu_{t-1}+B_t\mu_t$
+ $\bar \Sigma_t=A_t\Sigma_{t-1}A^T_t+R_t$&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$K_t=\bar \Sigma_{t-1}C_t^T(C_t\bar \Sigma_t^T+Q_t)^{-1}$&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;$\mu_t=\bar \mu_t+K_t(z_t-C_t\bar \mu_t)$
+ $\Sigma_t=(I-K_tC_t)\bar \Sigma_t$&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;return&lt;/em&gt; $\mu_t,\Sigma_t$&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;在算法中,$K_t$是卡尔曼增益(Kalman gain).对于算法的复杂度,由于第3步矩阵求逆时间复杂度至少为$O(d^{2.4})$,$d$为矩阵维度$d\times d$;在SLAM中,测量空间$z$的维度往往小于状态空间$x$维度,第4步更新的矩阵乘法时间复杂度至少为$O(n^2)$.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 May 2019 23:31:53 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/05/26/kalman-filter.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/05/26/kalman-filter.html</guid>
+        
+        <category>概率机器人</category>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>递归状态估计</title>
+        <description>&lt;p&gt;递归状态估计
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;初步看了一下本书第二章里关于递归状态估计关于贝叶斯滤波的那部分,发现最重要的两条原则是:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;状态$ x $完整的,即它是所有以前时刻发生的所有状态的充分总结&lt;/li&gt;
+  &lt;li&gt;马尔科夫模型成立&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;状态-x-完整的&quot;&gt;状态$ x $完整的&lt;/h3&gt;
+&lt;p&gt;假设$ x_t$是由状态$x_{t-1}$随机产生的.因此可以得出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x_t|x_{0:t-1},z_{1:t-1},u_{1:t})&lt;/script&gt;
+
+&lt;p&gt;当$x$是完整的,说明&lt;strong&gt;$x_{t-1}$是直到&lt;code class=&quot;highlighter-rouge&quot;&gt;t-1&lt;/code&gt;时刻的控制和测量的一个充分统计量,&lt;/strong&gt;即$u_{1:t-1}$和$z_{1:t-1}$.控制$u_t$需要知道$x_{t-1}$.由此可以将$u_{1:t-1}$和$z_{1:t-1}$在概率求解中简化,因为$x_{t-1}$已经是完整的了:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x_t|x_{0:t-1},z_{1:t-1},u_{1:t})=p(x_t|x_{t-1},u_t)&lt;/script&gt;
+
+&lt;h3 id=&quot;马尔科夫模型成立&quot;&gt;马尔科夫模型成立&lt;/h3&gt;
+
+&lt;p&gt;按照书中说法:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;未来可以是随机的,但是没有先于$x_t$的状态变量可以影响未来状态的随机变化,除非这种依赖通过状态$x_t$起作用.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我个人理解这句话和上面的状态完整性是内在一致的.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 May 2019 05:48:03 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/05/05/probabilistic-robotics-recursive-estimation.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/05/05/probabilistic-robotics-recursive-estimation.html</guid>
+        
+        <category>概率机器人</category>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+      <item>
+        <title>Installing g2o under Ubuntu 14.04</title>
+        <description>&lt;p&gt;g2o_viewer in Ubuntu 14.04
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;If you compile source code of &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o&lt;/code&gt; and install it under Ubuntu 14.04, you will find that the component of &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o_viewer&lt;/code&gt; won’t be installed. The reason is that &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o&lt;/code&gt; now depends on qt5, but there is only qt4 under Ubuntu 14.04. How can we solve this? I googled a lot and those methods of such as checking out to &lt;a href=&quot;https://zhuanlan.zhihu.com/p/41200084&quot;&gt;commit &lt;code class=&quot;highlighter-rouge&quot;&gt;8ba8a03f7863e1011e3270bb73c8ed9383ccc2a2&lt;/code&gt;&lt;/a&gt; in which qt4 is g2o’s dependency. But I encountered many compiling errors when &lt;code class=&quot;highlighter-rouge&quot;&gt;make&lt;/code&gt; and it was terminated. It really bothers me.&lt;/p&gt;
+
+&lt;p&gt;OK,I want to try another way.If the latest g2o needs qt5, should I install qt5 to the PC? Actually If you update your os to 16.04, there will be no problems. But I use ROS Indigo which should only be installed under 14.04. Unfortunately, it depends on qt4. So I can’t just uninstall qt4 and install qt5. I should have them both. Below are the procedures of installing qt5 and having the &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o_viewer&lt;/code&gt; component.&lt;/p&gt;
+
+&lt;p&gt;You can see this blog in this detailed &lt;a href=&quot;https://github.com/RainerKuemmerle/g2o/issues/151#issuecomment-487873085&quot;&gt;github issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;install-qt5&quot;&gt;Install QT5&lt;/h2&gt;
+
+&lt;p&gt;Just go to the official downloading link of the latest open-source &lt;a href=&quot;https://www.qt.io/download#section-2&quot;&gt;QT&lt;/a&gt;.After downloading, just run the &lt;code class=&quot;highlighter-rouge&quot;&gt;qt*.run&lt;/code&gt; to install QT(don’t forget to &lt;code class=&quot;highlighter-rouge&quot;&gt;chomod +777&lt;/code&gt;). I suggest to install only the Tools and source components.&lt;/p&gt;
+
+&lt;p&gt;After installation, you will have both qt4 and qt5. But the &lt;code class=&quot;highlighter-rouge&quot;&gt;qmake&lt;/code&gt; is still version 4. You should do some changes as the code below:&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo mv&lt;/span&gt; /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf_backup
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;vim /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Add the two lines to &lt;code class=&quot;highlighter-rouge&quot;&gt;default.conf&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;QT5_INSTALL_PATH_YOU_CHOOSE/VERSION_NUMBER_DIR/gcc_64/bin
+QT5_INSTALL_PATH_YOU_CHOOSE/VERSION_NUMBER_DIR/gcc_64/lib
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Then:&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;vim /etc/ld.so.conf.d/qt5_lib.conf
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Add one line to this &lt;code class=&quot;highlighter-rouge&quot;&gt;qt5_lib.conf&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;QT5_INSTALL_PATH_YOU_CHOOSE/VERSION_NUMBER_DIR/gcc_64/lib
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Then run &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo ldconfig&lt;/code&gt; to update the lib searching path. Now qt5 is available and if you type &lt;code class=&quot;highlighter-rouge&quot;&gt;qmake -v&lt;/code&gt; you will get something like below:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;QMake version 3.1
+Using Qt version 5.9.8 in /home/bob/software/qt5/5.9.8/gcc_64/lib
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Test it : run &lt;code class=&quot;highlighter-rouge&quot;&gt;qtcreator&lt;/code&gt;. If &lt;code class=&quot;highlighter-rouge&quot;&gt;qtcreator&lt;/code&gt; can’t be launched and you have some errors like below:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;./qtcreator: symbol lookup error: /home/bob/software/qt5/Tools/QtCreator/lib/Qt/plugins/platforms/../../lib/libQt5XcbQpa.so.5: undefined symbol: FT_Get_Font_Format
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;This is a fatal error. If you can’t solve this,then all the programs depend on qt5 won’t be launched, including &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o_viewer&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I spend a lot of time to solve this, I get nothing worked. Then I have to solve it by myself.&lt;/p&gt;
+
+&lt;p&gt;This error indicates that something is wrong with &lt;code class=&quot;highlighter-rouge&quot;&gt;libQt5XcbQpa.so.5&lt;/code&gt; in &lt;code class=&quot;highlighter-rouge&quot;&gt;QT5_INSTALL_PATH_YOU_CHOOSE/VERSION_NUMBER_DIR/gcc_64/lib/&lt;/code&gt;. We can &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; to this directory and run:&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ldd &lt;span class=&quot;nt&quot;&gt;-r&lt;/span&gt; libQt5XcbQpa.so.5 | &lt;span class=&quot;nb&quot;&gt;grep &lt;/span&gt;freetype
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;and you will have :&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;libfreetype.so.6 =&amp;gt; /usr/lib/x86_64-linux-gnu/libfreetype.so.6 (0x00007f77dfdf1000)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;I googled and knew it should be something wrong with the version of lib &lt;code class=&quot;highlighter-rouge&quot;&gt;libfreetype.so.6&lt;/code&gt;. In Ubuntu 14.04, the version of &lt;code class=&quot;highlighter-rouge&quot;&gt;freetype&lt;/code&gt; is too old. To fix this, you should go to &lt;code class=&quot;highlighter-rouge&quot;&gt;freetype&lt;/code&gt; &lt;a href=&quot;https://www.freetype.org/download.html&quot;&gt;downloading page&lt;/a&gt; and unzip the file, install freetype to your PC as the documemtaion said. After this, you will have&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;libfreetype.so
+libfreetype.so.6
+libfreetype.so.6.17.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;in your &lt;code class=&quot;highlighter-rouge&quot;&gt;/usr/local/lib&lt;/code&gt;.Do as follows:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo mv&lt;/span&gt; /usr/lib/x86_64-linux-gnu/libfreetype.so&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; TO_SOME_WHERE_F0R_BACK_UP
+&lt;span class=&quot;nb&quot;&gt;sudo cp&lt;/span&gt; /usr/local/lib/libfreetype.so&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; /usr/lib/x86_64-linux-gnu
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Now this error should be fixed. We have had the QT5 done. It’s time to get &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o&lt;/code&gt; installed.&lt;/p&gt;
+
+&lt;h2 id=&quot;install-g2o&quot;&gt;Install g2o&lt;/h2&gt;
+
+&lt;h3 id=&quot;install-libgql&quot;&gt;Install libgql&lt;/h3&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;g2o_viewer&lt;/code&gt; needs &lt;code class=&quot;highlighter-rouge&quot;&gt;libQGLViewer&lt;/code&gt;. If you have installed &lt;code class=&quot;highlighter-rouge&quot;&gt;libqglviewer-dev&lt;/code&gt; before, uninstall it via &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get remove libqglviewer*&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Go to &lt;a href=&quot;http://libqglviewer.com/installUnix.html&quot;&gt;libqglviewer&lt;/a&gt;, download latest version and install it as the documentation said.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If your compilaton couldn’t find libQGLViewer&lt;/strong&gt;, you shoud do the following:
+Go to the source dirtectory of &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o&lt;/code&gt;, modify the &lt;code class=&quot;highlighter-rouge&quot;&gt;FindQGLViewer.cmake&lt;/code&gt;  in &lt;code class=&quot;highlighter-rouge&quot;&gt;cmake_modules&lt;/code&gt; like below:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;...
+find_library(QGLVIEWER_LIBRARY_RELEASE
+##NAMES qglviewer QGLViewer qglviewer-qt5 QGLViewer-qt5
+  NAMES qglviewer-qt5 QGLViewer-qt5
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;modify-the-cmakeliststxt-of-g2o&quot;&gt;Modify the CMakeLists.txt of &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;If you just compile g2o, it won’t find the QT5 libs. So insert a variable to the &lt;code class=&quot;highlighter-rouge&quot;&gt;CMakeLists.txt&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# set the Qt5Config.cmake path
+set(Qt5_DIR QT5_INSTALL_PATH_YOU_CHOOSE/VERSION_NUMBER_DIR/gcc_64/lib/cmake/Qt5)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;install-g2o-1&quot;&gt;Install g2o&lt;/h3&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;mkdir &lt;/span&gt;build
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;build
+cmake ..
+make &lt;span class=&quot;nt&quot;&gt;-j8&lt;/span&gt;
+make &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Now g2o is installed. And you can run g2o_viewer.&lt;/p&gt;
+
+&lt;h3 id=&quot;install-libqglviewer&quot;&gt;Install libqglviewer&lt;/h3&gt;
+
+&lt;p&gt;Remember that the &lt;code class=&quot;highlighter-rouge&quot;&gt;libqglviewer-dev&lt;/code&gt; has been removed? We need to reinstall it in order for other programs depending on it.&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;libqglviewer-dev
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;unistallation&quot;&gt;Unistallation&lt;/h2&gt;
+
+&lt;p&gt;If you don’t need these anymore.&lt;/p&gt;
+&lt;h3 id=&quot;uninstall-qt5&quot;&gt;Uninstall QT5&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;./QT5_INSTALL_PATH_YOU_CHOOSE/MaintenanceTool
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;uninstall-libqglviewer&quot;&gt;Uninstall libQGLViewer&lt;/h3&gt;
+
+&lt;p&gt;Go to the build directory adn do:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo make uninstall
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Libs of &lt;code class=&quot;highlighter-rouge&quot;&gt;libQGLViewer&lt;/code&gt; are in &lt;code class=&quot;highlighter-rouge&quot;&gt;/usr/local/lib&lt;/code&gt;.Header files are in &lt;code class=&quot;highlighter-rouge&quot;&gt;/usr/local/include/QGLViewer&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;uninstall-g2o&quot;&gt;Uninstall g2o&lt;/h3&gt;
+&lt;p&gt;If you want uninstall &lt;code class=&quot;highlighter-rouge&quot;&gt;g2o&lt;/code&gt;, just :&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo rm -rf /usr/local/incude/g2o
+sudo rm -rf /usr/local/lib/libg2o*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;uninstall-freetype&quot;&gt;Uninstall freetype&lt;/h3&gt;
+
+&lt;p&gt;If yo don’t need freetype anymore and want to uninstall the &lt;code class=&quot;highlighter-rouge&quot;&gt;freetype&lt;/code&gt; you installed, make sure you move the original &lt;code class=&quot;highlighter-rouge&quot;&gt;libfreetype.so*&lt;/code&gt; back.&lt;/p&gt;
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; /usr/local/lib/libfreetype.la
+&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; /usr/local/lib/libfreetype.la /usr/local/lib/libfreetype.so.6.17.0 /usr/local/lib/libfreetype.so.6 /usr/local/lib/libfreetype.so /usr/local/lib/libfreetype.a
+&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-rf&lt;/span&gt; /usr/local/include/freetype2
+&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; /usr/local/bin/freetype-config
+&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; /usr/local/share/aclocal/freetype2.m4
+&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; /usr/local/lib/pkgconfig/freetype2.pc
+&lt;span class=&quot;nb&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-f&lt;/span&gt; /usr/local/share/man/man1/freetype-config.1
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 30 Apr 2019 23:34:12 +0800</pubDate>
+        <link>https://blog.bobliao.fun/tips/2019/04/30/g2o-in-ubuntu14-04.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/tips/2019/04/30/g2o-in-ubuntu14-04.html</guid>
+        
+        <category>tools</category>
+        
+        
+        <category>tips</category>
+        
+      </item>
+    
+      <item>
+        <title>机器人学中的基本概率知识</title>
+        <description>&lt;p&gt;递归状态估计
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;概率-probability&quot;&gt;概率 Probability&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;概率机器人技术的核心就是由&lt;strong&gt;传感器数据来估计机器人及环境状态&lt;/strong&gt;.状态估计解决的是从不能直接观测但可以推断的传感器数据中估计数量的问题.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;状态估计旨在从数据中找回状态变量.概率状态估计算法在可能的状态空间上计算置信度分布.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;概率的基本概念&quot;&gt;概率的基本概念&lt;/h3&gt;
+&lt;p&gt;随机变量: 机器人的传感器测量\控制\机器人的状态及其环境这些都作为随机变量.随机变量可以取多个值,且他们是根据具体的&lt;strong&gt;概率定律&lt;/strong&gt;来取值.
+令X表示一个随机变量,x表示X的某一特定值.如果X所取的所有值的空间是离散的,记X出现的值为x这一事件的概率为:$p(X=x)$.这就是离散概率.某个离散概率所有事件发生概率之和为1,即:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\sum\limits_xp(X=x)=1&lt;/script&gt;
+
+&lt;p&gt;离散概率永远为非负值,即$p(X=x)\geq 0$.为了简化表示,常用缩写$p(x)$代替$p(X=x)$.
+连续空间: 连续空间中的随机变量可以取连续值.连续随机变量都具有概率密度函数.
+在状态估计的前提中,随机变量都拥有概率密度函数(Probability Density Function).如正态分布的概率密度函数由下面高斯函数给出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x)=(2\pi\sigma^2)^{-\frac{1}{2}}\exp\{-\frac{1}{2}\frac{(x-\mu)^2}{\sigma^2}\}&lt;/script&gt;
+
+&lt;p&gt;这是一维的正太分布,$\mu$是均值,$\sigma$是方差,通常这样的分布可以缩写为:$\mathcal{N}(x;\mu,\sigma^2)$.
+高维状态下的正太分布概率函数可以由下式给出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(\boldsymbol x)=\det(2\pi{\boldsymbol \Sigma})^{-\frac{1}{2}}\exp\{-\frac{1}{2}(\boldsymbol x-\boldsymbol \mu)^T{\boldsymbol \Sigma}^{-1}(\boldsymbol x-\boldsymbol \mu)\}&lt;/script&gt;
+
+&lt;p&gt;其中$\boldsymbol \mu$是均值矢量,${\boldsymbol \Sigma}$是一个半正定对称矩阵,即协方差矩阵.高维正态分布概率分布函数是一维(标量)正态分布的严格泛化.
+和离散随机概率分布总和为1,连续概率密度分布的积分总和也总是等于1:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\int p(x){\rm d}x=1&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;注:概率密度函数上限不局限于1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;两个随机变量X和Y的联合分布(joint distribution)由下式给出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x,y)=p(X=x,Y=y)&lt;/script&gt;
+
+&lt;p&gt;该式表示X和Y值为x和y的概率.如果X和Y相互独立,有:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x,y)=p(x)p(y)&lt;/script&gt;
+
+&lt;p&gt;&lt;strong&gt;随机变量经常携带其他随机变量的信息&lt;/strong&gt;,X在Y值为y这个事件发生的条件下值为x的概率为:
+&lt;script type=&quot;math/tex&quot;&gt;p(x|y)=p(X=x|Y=y)&lt;/script&gt;
+这个式子称为条件概率(conditional probability).若$p(y)&amp;gt;0$,则得出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x|y)=\frac{p(x,y)}{p(y)}&lt;/script&gt;
+
+&lt;p&gt;当X和Y&lt;strong&gt;相互独立&lt;/strong&gt;,那么X就不会携带Y的信息,反之亦然.
+由以上条件概率和概率公理得到一个&lt;strong&gt;全概率定理&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x)=\sum\limits_yp(x|y)p(y)  \;\;(离散情况)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x)=\int p(x|y)p(y){\rm d}y  \;\;(连续情况)&lt;/script&gt;
+
+&lt;h3 id=&quot;贝叶斯准则&quot;&gt;贝叶斯准则&lt;/h3&gt;
+&lt;p&gt;贝叶斯准则(Bayes Rules)将条件概率与其”逆”概率$p(y|x)$联系了起来(前提条件:$p(y)&amp;gt;0$):&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x|y)=\frac{p(y|x)p(x)}{p(y)}=\frac{p(y|x)p(x)}{\sum_{x^\prime}p(y|x^\prime)p(x^\prime)}\;\;(离散情况)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x|y)=\frac{p(y|x)p(x)}{p(y)}=\frac{p(y|x)p(x)}{\int p(y|x^\prime)p(x^\prime){\rm d}x^\prime}\;\;(连续情况)&lt;/script&gt;
+
+&lt;p&gt;如果x是一个希望由y推测出来的数值,则概率$p(x)$称为&lt;strong&gt;先验概率分布()prior probability distribution&lt;/strong&gt;,其中y称为数据,在SLAM中即观测量/传感器测量值.$p(x)$总结了在综合y&lt;strong&gt;之前&lt;/strong&gt;已有的关于x的概率分布.概率$p(x|y)$称为&lt;strong&gt;在X上的后验概率分布(posterior probability distribution)&lt;/strong&gt;.贝叶斯准则允许通过”逆”概率去计算后验概率,这为机器人状态估计提供了便捷方法:如何在知道传感器数据y的条件下推出当前机器人的状态x?.在机器人学中概率$p(y|x)$经常被称为&lt;strong&gt;生成模型(generative model)&lt;/strong&gt;,它表示了状态变量X如何引起测量数据Y.
+需要指出:&lt;strong&gt;贝叶斯准则的分母$p(y)$不依赖x&lt;/strong&gt;,因此${p(y)}^{-1}$经常写成一个归一化变量$\eta$,由此:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x|y)=\eta p(y|x)p(x)&lt;/script&gt;
+
+&lt;p&gt;由贝叶斯准则可以推出下列的式子:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x|y,z)=\frac{p(y|x,z)p(x|z)}{p(y|z)}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;p(x,y|z)=p(x|z)p(y|z)&lt;/script&gt;
+
+&lt;p&gt;上式比较特殊,含义是其他变量Z为条件的相互独立的随机变量X,Y的条件联合概率分布,这种情况称为&lt;strong&gt;条件独立(condition independence)&lt;/strong&gt;.需要特别注意:&lt;em&gt;条件概率与绝对独立不是互相充分必要的&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;期望值与协方差&quot;&gt;期望值与协方差&lt;/h3&gt;
+&lt;p&gt;随机变量X的期望值由下式给定:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;E[X]=\sum\limits_xxp(x)\;\;(离散)&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;E[X]=\int xp(x){\rm d}x\;\;(连续)&lt;/script&gt;
+
+&lt;p&gt;期望是随机变量的&lt;strong&gt;线性&lt;/strong&gt;函数:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;E[aX+b]=aE[X]+b&lt;/script&gt;
+
+&lt;p&gt;X的协方差(协方差衡量的是偏离均值的二次方期望):&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;Cov[X]=E[X-E[X]]^2=E[X^2]-E[X]^2&lt;/script&gt;
+
+&lt;h3 id=&quot;熵&quot;&gt;熵&lt;/h3&gt;
+&lt;p&gt;熵(entropy),一个概率分布的熵可由下式给出:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;H_p(x)=E[-log_2p(x)]&lt;/script&gt;
+</description>
+        <pubDate>Thu, 25 Apr 2019 06:42:15 +0800</pubDate>
+        <link>https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/04/25/probabilistic-robotics-1.html</link>
+        <guid isPermaLink="true">https://blog.bobliao.fun/%E7%AC%94%E8%AE%B0/2019/04/25/probabilistic-robotics-1.html</guid>
+        
+        <category>概率机器人</category>
+        
+        <category>slam</category>
+        
+        
+        <category>笔记</category>
+        
+      </item>
+    
+  </channel>
+</rss>
