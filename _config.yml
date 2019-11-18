@@ -1,6 +1,6 @@
 # Site settings
 title: 莫问前程沙漫天
-email: zhoujiafeng0116@gmail.com
+email: zhoujiafeng0116@gmail.com 
 description: 珍惜时间
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -22,7 +22,7 @@ plugins:
 github_username: foreverlms
 # permalink: /:year/:month/:day/:title/
 
-paginate: 25
+paginate: 10
 paginate_path: "page:num"
 # Build settings
 markdown: kramdown
